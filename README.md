@@ -1,19 +1,16 @@
-## Hi there 👋
+## Hi! Soy Marco Meléndez 👋 :man:
 
-My name is Marco Meléndez, I'm from Venezuela
+Soy **Desarrollador Full Stack** con mas de 10 años experiencia.
 
-Web developer, I like PHP and especially use the Laravel Framework.
+## He trabajado con los siguientes lenguajes y tecnologias  :computer:
 
-* I’m currently working as a Freelancer 
-* I do consulting SEO per hours, as a success story [amargarita.com](https://www.amargarita.com) , [redsocialnet.com](http://www.redsocialnet.com)
-
-## Skills
-
-* PHP development - Laravel
-* JavaScript - Angular, Vue
-* Docker, Git, Linux 
-* MySQL, MongoDB, Redis
+* PHP, Python3 y JavaScript
+* Frameworks (Laravel, Symfony, Vue, ReactJS)
 * APIRest
+* MySQL, MongoDB, Redis, MSSQL
+* Docker, Kubernete, Git, Linux 
+* Conocimientos en Design patterns, TDD y DDD
+* Metodologia SCRUM
 
 ## Contact
 Email: marcomelendezn@gmail.com
